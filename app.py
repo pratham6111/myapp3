@@ -38,7 +38,7 @@ HTML_PAGE = """
 
     <div class="container">
         <h1>Welcome to My Project</h1>
-        <p>This application is deployed using Flask, Docker, Jenkins, and Kubernetes.</p>
+        <p>This application is deployed using Flask, Docker, Jenkins, and openshift.</p>
     </div>
 
 </body>
